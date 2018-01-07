@@ -1,5 +1,8 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
+# server
+playground.js
+
 # compiled output
 /dist
 /tmp
@@ -32,7 +35,6 @@
 npm-debug.log
 testem.log
 /typings
-yarn-error.log
 
 # e2e
 /e2e/*.js
